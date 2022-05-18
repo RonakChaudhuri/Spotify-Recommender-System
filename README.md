@@ -1,4 +1,7 @@
 # Spotify-Recommender-System
+
+https://docs.google.com/presentation/d/1Yz9c6PCQu5i0P4VWEw2iqdF2RP_z5l0aRUOccOZjegU/edit?usp=sharing
+
 For my second semester Advanced Topics project, I wanted to learn about creating and coding a recommendation system, specifically for music. I wanted to expand on learning about predictive analytics and analyzing data from my last semester project. I also coded this project in Python, a language I wanted to get more familiar with, and I used the pycharm IDE. 
 
 The first step toward going about my project was the collection of data from songs. At first, I used just a basic API I found containing just titles, artists, genres...which was pretty limiting. However I recently discovered the publicly available spotify data sets that contains many more audio features, for me to pull from, shown here such as loudness, liveness, popularity, tempo, etc. It required me to pretty much redo my entire project, however I was able to do much more with it but along with it a lot more complicated working with multiple variables 
